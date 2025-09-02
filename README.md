@@ -1,2 +1,3 @@
 # CEE-CV1711
-CV1711-Sharing
+
+Please check the slides and download.
